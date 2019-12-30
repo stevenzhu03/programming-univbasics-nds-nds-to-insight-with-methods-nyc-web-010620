@@ -20,11 +20,5 @@ end
 #
 # { directorOne => allTheMoneyTheyMade, ... }
 def directors_totals(nds)
-  gross = 0
-  index = 0
-
-  while index < nds.total do
-    
-
-
+  
 end
